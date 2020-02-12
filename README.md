@@ -1,4 +1,4 @@
-# sample3
+# total-population-trends-sample2
 
 > My fantabulous Nuxt.js project
 
